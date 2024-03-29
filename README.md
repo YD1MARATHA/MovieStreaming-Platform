@@ -18,13 +18,16 @@ Streaming and Downloading: Users can stream movies directly on the platform or d
 Installation:
 
 Install XAMPP server on your local machine.
+
 Clone or download the project files into the XAMPP htdocs directory.
 Import the provided MySQL database into your PHPMyAdmin.
 Update database configuration in the project files if necessary.
+
 Accessing the Platform:
 
 Start the Apache and MySQL services in XAMPP.
 Open your web browser and navigate to http://localhost/<project-folder>/index.php to access the platform.
+
 User Actions:
 
 Register an account if you are a new user, or log in with your existing credentials.
